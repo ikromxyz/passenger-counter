@@ -7,6 +7,20 @@ $ npm install
 $ npm start
 ````
 
+I create this apps by learning from site called Scrimba
+
+Most of the purpose is to learn some basic of JavaScript, here you will find some things like:
+- script tag
+- variables
+- numbers
+- strings
+- console.log()
+- functions
+- The DOM
+- getElementById()
+- innerText
+- textContent
+
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
